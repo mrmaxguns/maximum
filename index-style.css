@@ -6,6 +6,8 @@ body {
 /* Main title background as keyboard.jpg */
 .main-title {
 	background-image: url("keyboard.jpg");
+	width: 100%;
+	height: 600px;
 }
 
 /* Title text */
