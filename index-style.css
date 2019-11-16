@@ -104,5 +104,21 @@ li a:hover {
 	text-align: center;
 }
 
+/* Conclusion background as tech.gif */
+#reason2 {
+	background-image: url("tech.gif");
+	width: 100%;
+	height: 500px;
+	background-size: cover;
+	padding: 100px 0;
+}
+
+
+/* Conclusion text */
+#reason2-text {
+	color: white;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+}
 
 
