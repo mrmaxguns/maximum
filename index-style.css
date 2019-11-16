@@ -12,6 +12,11 @@ body {
 	padding: 100px 0;
 }
 
+/* Center the div that holds the title subcaption */
+.title-detailed {
+	margin: auto;
+}
+
 /* Title text */
 #title {
 	color: white;
