@@ -50,3 +50,11 @@ li a {
 li a:hover {
   background-color: #111;
 }
+
+.active {
+  background-color: #111;
+}
+
+.sitename {
+	background-color: #8332a8;
+}
