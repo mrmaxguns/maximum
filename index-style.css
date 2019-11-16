@@ -121,7 +121,7 @@ li a:hover {
 	text-align: center;
 }
 
-#learnmore {
+.button {
   background-color: #00055c; /* Blue */
   border: none;
   color: white;
