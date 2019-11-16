@@ -1,7 +1,14 @@
+/* Main background color */
+body {
+	background-color: #2c1776;
+}
+
+/* Main title background as keyboard.jpg */
 .main-title {
 	background-image: url("keyboard.jpg");
 }
 
+/* Title text */
 #title {
 	color: white;
 	font-family: "Courier New", Courier, monospace;
