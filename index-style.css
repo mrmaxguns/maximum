@@ -15,6 +15,7 @@ body {
 /* Center the div that holds the title subcaption */
 .title-detailed {
 	margin: auto;
+	width: 50%;
 }
 
 /* Title text */
