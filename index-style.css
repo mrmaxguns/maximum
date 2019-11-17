@@ -5,14 +5,17 @@ body {
 
 
 /* Nav Bar */
+.navigation-bar {
+	position: -webkit-sticky;
+  position: sticky;
+	top: 0;
+	
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
-	position: -webkit-sticky;
-  position: sticky;
 }
 
 li {
