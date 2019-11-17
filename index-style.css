@@ -9,6 +9,7 @@ body {
 	position: -webkit-sticky;
   position: sticky;
 	top: 0;
+}
 	
 ul {
   list-style-type: none;
