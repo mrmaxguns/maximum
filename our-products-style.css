@@ -1,3 +1,9 @@
+/* Remove horizontal scrollbar */
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 /* Main background color */
 body {
 	background-color: #2c1776;
